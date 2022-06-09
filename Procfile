@@ -1,1 +1,1 @@
-worker: python3 -m anibot
+worker: npm i && npm start
