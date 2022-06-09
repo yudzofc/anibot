@@ -33,17 +33,17 @@
             "description":"1782835954"
         },
         "ANILIST_CLIENT": {
-            "description":"Get from https://anilist.co/settings/developer"
+            "description":"8525"
         },
         "ANILIST_SECRET": {
-            "description":"Get from https://anilist.co/settings/developer"
+            "description":"FJDQG1jVr55rn9kjUeo54zWCRtwdLiritwBwM7MU"
         },
         "ANILIST_REDIRECT_URL": {
             "description":"If you don't wish to change auth method, just leave it that way",
             "required":false
         },
         "TRIGGERS":{
-            "description":"Custom triggers, for multiple, just put a space between like '/ ?'. / and ! are defaults",
+            "description":".",
             "required":false
         },
         "PREFERRED_LANGUAGE":{
